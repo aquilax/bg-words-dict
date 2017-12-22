@@ -1,8 +1,8 @@
 # bg-words-dict
 
-Списък думи кирилица
+Списък с думи на български език.
 
-За да генерирате списъка:
+За генериране на списъка:
 
 ```
 wget https://github.com/chitanka/content-text/archive/master.zip
